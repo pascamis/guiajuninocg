@@ -118,7 +118,7 @@ p{
   
  
 /* responsividade  */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   .foto{
    width:300px;
    margin-bottom: 20px;
