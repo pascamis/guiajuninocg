@@ -153,6 +153,13 @@ p{
   width: 300px;
 }
 
+.conteudo{
+  margin-bottom: 150px;
+}
+
+.mapp{
+  margin-top: 30px;
+}
 .conteudo-historia h2 {
   font-size: 1.5rem;
 }
