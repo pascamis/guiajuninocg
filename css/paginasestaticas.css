@@ -118,13 +118,14 @@ p{
   
  
 /* responsividade  */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 670px) {
+ 
   .foto{
    width:300px;
    margin-bottom: 20px;
   }
   .cidade{
-    padding-left: 30px;
+    margin-left: 45px;
   }
   .titulo{
     margin-left:45px;
@@ -173,8 +174,10 @@ p{
   font-size: 1.5rem;
 }
 
-
+.descricaogrande{
+  margin-bottom: 250px;
 
 }
 
+}
 
