@@ -120,7 +120,7 @@ p{
 /* responsividade  */
 @media screen and (max-width: 600px) {
   .foto{
-   width:400px;
+   width:350px;
    margin-bottom: 20px;
   }
   .cidade{
@@ -131,14 +131,14 @@ p{
   }
 
   .mapa{
-    width: 400px;
+    width: 350px;
   }
 
   .descricao{
   margin-bottom:100px;
   }
   .restaurantes{
-  width: 400px;
+  width: 350px;
   height: 130px;
 }
   .imagem-historia{
@@ -148,6 +148,9 @@ p{
   width: 90%;
   padding-bottom: 50px;
   text-align: justify;
+}
+.hoteis{
+  width: 350px;
 }
 
 .conteudo-historia h2 {
